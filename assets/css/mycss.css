@@ -1,0 +1,60 @@
+body{
+    overflow-x: hidden;
+}
+.section1{
+    background-color: #e8f1ff;
+    height:600px;
+}
+.bg-lightblue{
+    background-color: #e8f1ff;
+    
+
+}
+.bg-betn{
+background-color: #3c50e0;
+color: #fff;
+}
+.logo{
+    font-size: 14px;
+    font-weight: bold;
+}
+.image-one{
+    width:95%;
+    margin-top: -22%;
+    margin-left: 30%;
+}
+.section2{
+    height:400px;
+    margin-bottom: 40px;
+}
+.section8{
+    background-color: #e8f1ff;
+    padding-bottom: 60px;
+    /*background-image: linear-gradient(180deg, white,#e0e5f7);*/
+}
+.item1{
+    top:-10%;
+    right:50%;
+}
+.item2{
+    top:30%;
+    right:50%;
+}
+.item3{
+    top:70%;
+    right:50%;
+}
+
+.item4{
+    right:0%;
+    top:20%;
+}
+.item5{
+    right:0%;
+    top:60%;
+}
+.footer{
+    height:500px;
+    background-color: #0f122e;
+}
+
